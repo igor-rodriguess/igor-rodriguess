@@ -32,6 +32,19 @@ Já desenvolvi um projeto de summer para a **Crossnetworking**, aplicando na pr�
 
 ---
 
+### 📊 Atividade no GitHub
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=igor-rodriguess&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Estatísticas do GitHub do Igor" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rodriguess&layout=compact&locale=pt-br&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Linguagens mais usadas" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=igor-rodriguess&locale=pt_BR&background=0d1117&border=30363d&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="Sequência de contribuições" />
+</p>
+
+---
+
 ### 📫 Contato
 
 <p>
