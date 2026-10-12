@@ -1,6 +1,8 @@
 <h1>Olá, eu sou o Igor 👋</h1>
 
-Sou estudante de **Ciência da Computação no [Inteli](https://www.inteli.edu.br/)**, onde estudo como bolsista, com foco em **desenvolvimento de Inteligência Artificial**, principalmente **Machine Learning** e **orquestração de agentes**.
+Sou estudante de **Ciência da Computação no [Inteli](https://www.inteli.edu.br/)** (Instituto de Tecnologia e Liderança), uma faculdade de tecnologia com ensino baseado em projetos: a cada módulo, desenvolvemos soluções reais para empresas parceiras.
+
+Estudo como bolsista, com foco em **desenvolvimento de Inteligência Artificial**, principalmente **Machine Learning** e **orquestração de agentes**.
 
 Já desenvolvi um projeto de summer para a **Crossnetworking**, aplicando na prática o que estudo em um contexto real de negócio.
 
